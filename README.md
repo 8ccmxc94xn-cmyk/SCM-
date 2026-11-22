@@ -57,6 +57,7 @@ A practical skill for China–Southeast Asia supply-chain desk research: named f
 | 路径 | 说明 |
 | --- | --- |
 | `SKILL.md` | 可执行 skill 正文：铁律、两条链路、资源发现、询价、交付质检 |
+| `WORKFLOW.md` | 按 skill 整理的操作工作流：如何开票、第一交付、以及询价和报告等可选后续 |
 | `template/` | 方案报告用的九页仪表盘模板、槽位说明和重建脚本 |
 | `examples/resource-pack-template.md` | 第一交付资源包的空白格式示例，不含真实厂家或货代名单 |
 | `assets/supervia-logo.jpg` | 致谢所用的企业标识 |
@@ -68,7 +69,7 @@ A practical skill for China–Southeast Asia supply-chain desk research: named f
 
 ## 如何使用
 
-1. 把 `SKILL.md` 放到你的 AI 助手或 Cursor 的 skill 目录中，并保留旁边的 `template/` 文件夹。
+1. 把 `SKILL.md` 放到你的 AI 助手或 Cursor 的 skill 目录中，并保留旁边的 `template/` 文件夹。操作顺序见 [WORKFLOW.md](WORKFLOW.md)。
 2. 直接给出货品、出发地和目的地，例如：从义乌出口冲锋衣到马来西亚，或从马来西亚采购榴莲进口到深圳。
 3. 先阅读对话里的资源包和缺口，再决定是否授权询价，或是否生成 PPT 报告。
 

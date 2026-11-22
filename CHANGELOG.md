@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+- 新增 `WORKFLOW.md` 操作工作流，并在 README 中加入入口
+
 ## 0.1.0 — 2026-11-22
 
 首次公开版本。内容是可执行的中国大陆 ↔ 东南亚供应链 desk-research skill，不是网站、自动询价引擎或成交系统。
