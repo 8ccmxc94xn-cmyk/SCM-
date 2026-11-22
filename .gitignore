@@ -1,0 +1,19 @@
+# local / OS
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/
+__pycache__/
+
+# never publish live research or private working files
+scm-cases/
+**/contact-verify*/
+tmp/
+*.tariff.pdf
+*关税*.pdf
+readme-preview.png
+
+# secrets
+.env
+.env.*
